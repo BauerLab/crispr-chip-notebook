@@ -1,4 +1,5 @@
-sklearn
-pybedtools
 matplotlib
 seaborn
+numpy
+pandas
+

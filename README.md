@@ -3,7 +3,6 @@
 # CRISPR-Chip Jupyter Notebook
 This Jupyter Notebook is designed to compare two sequences and identify CRISPR targets unique to each, which are then used to accurately and efficiently distinguish between the samples. The notebook utilises TUSCAN to identify highly active CRISPR sites in each sequence and uses the Hamming Distance metric to select targets which are significantly different from all targets from the opposing sequence. 
 
----
 # Usage
 1. Open the notebook by running this command in the directory
     ```sh
